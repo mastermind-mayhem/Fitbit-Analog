@@ -1,0 +1,54 @@
+.background {
+  viewport-fill: red;
+}
+
+#myLabel {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+40;
+  fill: white;
+}
+
+
+#txtsteps {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 70%;
+  y: 95%;
+  fill: white;
+}
+
+#txttime {
+  font-size: 50;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 20%;
+  fill: grey;
+}
+
+#txtbpm {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 40%;
+  y: 95%;
+  fill: white;
+}
+
+#txtbpmlabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 20%;
+  y: 95%;
+  fill: white;
+}
